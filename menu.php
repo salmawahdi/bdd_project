@@ -84,15 +84,15 @@
 	    				<div class="col-md-4 d-flex ftco-animate">
 	    					<div class="icon"><span class="icon-phone"></span></div>
 	    					<div class="text">
-	    						<h3>000 (123) 456 7890</h3>
-	    						<p>A small river named Duden flows by their place and supplies.</p>
+	    						<h3>+212 8255555</h3>
+	    						
 	    					</div>
 	    				</div>
 	    				<div class="col-md-4 d-flex ftco-animate">
 	    					<div class="icon"><span class="icon-my_location"></span></div>
 	    					<div class="text">
-	    						<h3>198 West 21th Street</h3>
-	    						<p>	203 Fake St. Mountain View, San Francisco, California, USA</p>
+	    						<h3>khouribga city</h3>
+	    						<p>Bd Béni Amir, BP 77, Khouribga</p>
 	    					</div>
 	    				</div>
 	    				<div class="col-md-4 d-flex ftco-animate">
@@ -150,107 +150,254 @@
     	<div class="container">
         <div class="row">
         	<div class="col-md-6 mb-5 pb-3">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Starter</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Les entrées</h3>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-1.jpg);"></div>
+        			<div class="img" style="background-image: url(images/OIP.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Cornish - Mackerel</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Salade César Au Poulet</span></h3>
+	        				<span class="price">90.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Salade César au poulet croustillant, tomate cerise confite, salade Romaine et croûtons</p>
 	        			</div>
         			</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-2.jpg);"></div>
+        			<div class="img" style="background-image: url(images/R.jfif);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Roasted Steak</span></h3>
-	        				<span class="price">$29.00</span>
+	        				<h3><span>Salade Grecque </span></h3>
+	        				<span class="price">80.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Tomate, oignon rouge, concombre, poivrons, olive Kalamata, fromage feta</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-3.jpg);"></div>
+        			<div class="img" style="background-image: url(images/salade-chevres.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Seasonal Soup</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Salade de fromage de chèvre</span></h3>
+	        				<span class="price">95.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Salade de fromage de chèvre gratiné au fine herbes, pommes caramélisées, betterave mariné et mesclun de salade, vinaigrette de balsamique et miel</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-4.jpg);"></div>
+        			<div class="img" style="background-image: url(images/OIF.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Chicken Curry</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Tartare de mangue et gambas cuites</span></h3>
+	        				<span class="price">110.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Tartare de mangue et gambas cuites, concombre, tomate et herbes, lit de carpaccio d’avocat et salade roquette, tuile de pain croustillante</p>
 	        			</div>
 	        		</div>
         		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/grilled-peach-and-burrata-salad-683x1024.webp"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Salade de burratta</span></h3>
+	        				<span class="price">120.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Tomate cerise, burratta ,Ananas rôtis au romarin, salade roquette, vinaigrette Balsamique</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/poisson.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Soupe de poissons</span></h3>
+	        				<span class="price">85.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Soupe de poissons des rochers et croûtons à la persillade</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/gambas.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Gambas Pil-Pil</span></h3>
+	        				<span class="price">120.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Gambas Pil-Pil au jus de crustacés</p>
+	        		</div>
+        		</div>
+			</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/nems.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Nems aux gambas</span></h3>
+	        				<span class="price">90.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Nems aux gambas à la chermoula, légumes croquants et champignons frais</p>
+	        			</div>
+	        		</div>
+        		</div>
+				
+        	
         	</div>
 
         	<div class="col-md-6 mb-5 pb-3">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Main Dish</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Les Plats</h3>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-5.jpg);"></div>
+        			<div class="img" style="background-image: url(images/thon.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Sea Trout</span></h3>
-	        				<span class="price">$49.91</span>
+	        				<h3><span>Thon rouge de Méditerranée mi-cuit</span></h3>
+	        				<span class="price">270.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Thon rouge poêlé</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-6.jpg);"></div>
+        			<div class="img" style="background-image: url(images/saumon.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Roasted Beef</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Saumon grillé</span></h3>
+	        				<span class="price">260.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Grillé au garam-massala, fondue de tomate et poivron vert aux parfums d’un rougail, jus d’herbes fraiches</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-7.jpg);"></div>
+        			<div class="img" style="background-image: url(images/cote.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Butter Fried Chicken</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Côte de veau rôtie au sautoir (350g)</span></h3>
+	        				<span class="price">300.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        			   <p>Ail confit, sauce aux anchois et herbes fraîches, garniture aux choix</p>
 	        			</div>
 	        		</div>
         		</div>
-        		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dish-8.jpg);"></div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/tag.légumes.jpeg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Chiken Filet</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>TAGLIATELLE PRIMAVERA</span></h3>
+	        				<span class="price">1800.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        		       <p> Pâtes aux légumes de saison</p>
 	        			</div>
 	        		</div>
         		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/canard.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Magret de canard rôti aux épices</span></h3>
+	        				<span class="price">260.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Légumes grillés, fruits confits de saison, sauce gingembre.</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/tag.ausaumon.png);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Tagliatelle au saumon fumé</span></h3>
+	        				<span class="price">205.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Oignons confits, ail, câpres.</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/rissoto.jpg);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Risotto à la truffe noire</span></h3>
+	        				<span class="price">270.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Rocher de parmesan  </p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/noires.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>PÂTES NOIRES AUX FRUITS DE MER</span></h3>
+	        				<span class="price">230.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Pates noires,fruits de mer au choix</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/beef.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Cheeseburger pur boeuf</span></h3>
+	        				<span class="price">170.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p> Bun moelleux, vieux cheddar, pastrami grillé, frites, sauce cheddar.</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/stracciatella.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Pizaa STRACCIATELLA</span></h3>
+	        				<span class="price">160.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Stracciatella, parmesan, roquette</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/palourdes.webp);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Pâtes aux palourdes</span></h3>
+	        				<span class="price">150.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Pâtes aux palourdes frais </p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/bufala.avif);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Pizza BUFALA</span></h3>
+	        				<span class="price">150.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Bufala, parmesan, roquette, champignons, tomate séché, pesto</p>
+	        			</div>
+	        		</div>
+        		</div>
+        	
         	</div>
 
         	<div class="col-md-6">
