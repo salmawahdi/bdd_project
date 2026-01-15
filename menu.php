@@ -150,7 +150,7 @@
     	<div class="container">
         <div class="row">
         	<div class="col-md-6 mb-5 pb-3">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Les entrées</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Entrées</h3>
         		<div class="pricing-entry d-flex ftco-animate">
         			<div class="img" style="background-image: url(images/OIP.webp);"></div>
         			<div class="desc pl-3">
@@ -252,7 +252,7 @@
         	</div>
 
         	<div class="col-md-6 mb-5 pb-3">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Les Plats</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Plats</h3>
         		<div class="pricing-entry d-flex ftco-animate">
         			<div class="img" style="background-image: url(images/thon.webp);"></div>
         			<div class="desc pl-3">
@@ -403,23 +403,35 @@
         	<div class="col-md-6">
         		<h3 class="mb-5 heading-pricing ftco-animate">Desserts</h3>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dessert-1.jpg);"></div>
+        			<div class="img" style="background-image: url(images/framb2.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Cornish - Mackerel</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Cheesecake framboise </span></h3>
+	        				<span class="price">100.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Cheesecake framboise et crumble pralines rosess</p>
 	        			</div>
         			</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dessert-2.jpg);"></div>
+        			<div class="img" style="background-image: url(images/pain.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Roasted Steak</span></h3>
-	        				<span class="price">$29.00</span>
+	        				<h3><span>Pain perdu flambé Grand marnier</span></h3>
+	        				<span class="price">120.00DHS</span>
+                         </div>    
+	        			<div class="d-block">
+	        				<p>Supreme d’orange caramélisé, Glace vanille</p>
+	        			</div>
+	        		</div>
+        		</div>
+        		<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/Pommes.jpg);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Fine tarte aux pommes</span></h3>
+	        				<span class="price">95.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
 	        				<p>A small river named Duden flows by their place and supplies</p>
@@ -427,78 +439,91 @@
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dessert-3.jpg);"></div>
+        			<div class="img" style="background-image: url(images/fondant.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Seasonal Soup</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Fondant au chocolat</span></h3>
+	        				<span class="price">90.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Fondant </p>
 	        			</div>
 	        		</div>
         		</div>
-        		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/dessert-4.jpg);"></div>
+				
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/Pavlova.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Chicken Curry</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Pavlova fruits rouges</span></h3>
+	        				<span class="price">170.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Crème légère à la vanille, confît de fruits rouges, fruits rouges.</p>
+	        			</div>
+	        		</div>
+        		</div>
+				<div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/glace.jpg);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span> Boules de Glace </span></h3>
+	        				<span class="price">80.00DHS</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Au choix</p>
 	        			</div>
 	        		</div>
         		</div>
         	</div>
 
         	<div class="col-md-6">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Drinks</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Boissons</h3>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/drink-5.jpg);"></div>
+        			<div class="img" style="background-image: url(images/orange.webp);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Sea Trout</span></h3>
-	        				<span class="price">$49.91</span>
+	        				<h3><span>Jus d'orange</span></h3>
+	        				<span class="price">50.00Dhs</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Oranges pressés</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/drink-6.jpg);"></div>
+        			<div class="img" style="background-image: url(images/citron.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Roasted Beef</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Jus de citron</span></h3>
+	        				<span class="price">50.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Citrons pressés</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/drink-7.jpg);"></div>
+        			<div class="img" style="background-image: url(images/coco.avif);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Butter Fried Chicken</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Lait de coco</span></h3>
+	        				<span class="price">60.00DHS</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Coco</p>
 	        			</div>
 	        		</div>
         		</div>
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/drink-8.jpg);"></div>
+        			<div class="img" style="background-image: url(images/the.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Chiken Filet</span></h3>
-	        				<span class="price">$20.00</span>
+	        				<h3><span>Thé au citron glacé </span></h3>
+	        				<span class="price">60.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>A small river named Duden flows by their place and supplies</p>
+	        				<p>Thé ,citron</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -511,9 +536,9 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Discover</span>
-            <h2 class="mb-4">Our Products</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          	<span class="subheading">Découvrez</span>
+            <h2 class="mb-4">Nos Meilleurs Produits</h2>
+            
           </div>
         </div>
     		<div class="row d-md-flex">
@@ -521,11 +546,11 @@
 		    		<div class="row">
 		          <div class="col-md-12 nav-link-wrap mb-5">
 		            <div class="nav ftco-animate nav-pills justify-content-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-		              <a class="nav-link active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Main Dish</a>
+		              <a class="nav-link active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Nos Plats</a>
 
-		              <a class="nav-link" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Drinks</a>
+		              <a class="nav-link" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Nos boissons</a>
 
-		              <a class="nav-link" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">Desserts</a>
+		              <a class="nav-link" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">Nos Desserts</a>
 		            </div>
 		          </div>
 		          <div class="col-md-12 d-flex align-items-center">
@@ -536,70 +561,56 @@
 		              	<div class="row">
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-1.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/thon.webp);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Thon rouge de Méditerranée mi-cuit</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-2.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/cote.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Côte de veau rôtie au sautoir</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-3.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/saumon.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Saumon grillé</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-4.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/canard.webp);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Magret de canard rôti aux épices</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-5.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/rissoto.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Risotto à la truffe noire</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dish-6.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Grilled Beef</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
+		              		
+		              		
 		              	</div>
 		              </div>
 
@@ -607,66 +618,28 @@
 		                <div class="row">
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-1.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/orange.webp);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Lemonade Juice</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Jus d'orange</a></h3>
+		              					
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-2.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/citron.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pineapple Juice</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Jus de citron</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-3.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/coco.avif);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Soda Drinks</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-4.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Lemonade Juice</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-5.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Pineapple Juice</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-6.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Soda Drinks</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Lait de coco</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
@@ -678,66 +651,36 @@
 		                <div class="row">
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-1.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/framb2.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Cheesecake framboise</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-2.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/fondant.webp);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Fondant au chocolat</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-3.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/Pavlova.webp);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Pavlova fruits rouges</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-4.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/Pommes.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-5.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
-		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
-		              				</div>
-		              			</div>
-		              		</div>
-		              		<div class="col-md-4 text-center">
-		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-6.jpg);"></a>
-		              				<div class="text">
-		              					<h3><a href="#">Hot Cake Honey</a></h3>
-		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
-		              					<p class="price"><span>$2.90</span></p>
+		              					<h3><a href="#">Fine tarte aux pommes</a></h3>
 		              					<p><a href="#" class="btn btn-primary btn-outline-primary">Add to cart</a></p>
 		              				</div>
 		              			</div>
