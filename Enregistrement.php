@@ -7,7 +7,7 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     html, body { width: 100%; height: 100%; font-family: Arial, sans-serif; overflow: hidden; }
 
-    /* Slideshow full screen avec <img> pour meilleure qualité */
+    
     .slideshow {
         position: fixed;
         top: 0; left: 0;
@@ -20,7 +20,7 @@
         position: absolute;
         width: 100%;
         height: 100%;
-        object-fit: cover; /* garde la qualité et couvre tout l'écran */
+        object-fit: cover; 
         top: 0;
         left: 0;
         opacity: 0;
@@ -39,7 +39,7 @@
         100% { opacity: 0; }
     }
 
-    /* Container avec texte */
+    
     .container {
         position: relative;
         height: 100vh;
@@ -97,14 +97,14 @@
 </head>
 <body>
 
-<!-- Slideshow background -->
+
 <div class="slideshow">
     <img src="images/rest3.jpg" alt="Restaurant">
     <img src="images/caf3.jfif" alt="Salle">
     <img src="images/rest4.avif" alt="Plat">
 </div>
 
-<!-- Content -->
+
 <div class="container">
     <h1>Réservation enregistrée avec succès</h1>
     <p>Merci pour votre réservation. Nous avons bien reçu votre demande.</p>
